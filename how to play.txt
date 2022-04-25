@@ -1,0 +1,29 @@
+How to play:
+
+'start' - starts the game
+'pause' - pauses the game
+'unpause' - unpauses the game
+'>' - sets game speed to default
+'>>' - increases game speed a bit
+'>>>' - increases game speed significantly
+
+'Recent events' - displays recent events that happened in your village
+
+Warehouse - contains information about how much resources do you have and how much do you produce every day [in brackets]
+Infrastructure - displays development of your village
+you cant increase level of building over your population count
+Construction costs - informs about price of upgrading buildings
+Marketplace - allows you to trade resources for gold
+
+your population will always grow towards either your housing spots displayed next to population count or food produced daily
+whichever is lower, however you will be penalised if you let your people starve
+your population will grow every 10 turns and only if your recent food balance was positive 3 days in a row
+your population will starve whenever you recent food balance was negative 3 days in a row
+
+SCORE:
+you are awarded score for finding gold in mines and whenever your population grows in numbers
+you lose score whenever you let your people starve
+game will end either when you reach 2000 score or if you let your population shrinks to much or your score drops below hundred
+
+tldr make sure your people dont starve and keep on upgrading your village
+tip upgrade your farms at start

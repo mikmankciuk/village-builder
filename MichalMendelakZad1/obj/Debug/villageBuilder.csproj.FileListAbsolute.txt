@@ -1,0 +1,13 @@
+C:\Users\mymik\Desktop\kursC#\michal_mendelak_cpc2020-2\Laboratorium1\zadanie domowe\MichalMendelakZad1\obj\Debug\villageBuilder.csproj.AssemblyReference.cache
+C:\Users\mymik\Desktop\kursC#\michal_mendelak_cpc2020-2\Laboratorium1\zadanie domowe\MichalMendelakZad1\obj\Debug\MichalMendelakZad1.FormMain.resources
+C:\Users\mymik\Desktop\kursC#\michal_mendelak_cpc2020-2\Laboratorium1\zadanie domowe\MichalMendelakZad1\obj\Debug\MichalMendelakZad1.FormDefeat.resources
+C:\Users\mymik\Desktop\kursC#\michal_mendelak_cpc2020-2\Laboratorium1\zadanie domowe\MichalMendelakZad1\obj\Debug\MichalMendelakZad1.FormHowToPlay.resources
+C:\Users\mymik\Desktop\kursC#\michal_mendelak_cpc2020-2\Laboratorium1\zadanie domowe\MichalMendelakZad1\obj\Debug\MichalMendelakZad1.FormVictory.resources
+C:\Users\mymik\Desktop\kursC#\michal_mendelak_cpc2020-2\Laboratorium1\zadanie domowe\MichalMendelakZad1\obj\Debug\villageBuilder.csproj.GenerateResource.cache
+C:\Users\mymik\Desktop\kursC#\michal_mendelak_cpc2020-2\Laboratorium1\zadanie domowe\MichalMendelakZad1\obj\Debug\villageBuilder.csproj.CoreCompileInputs.cache
+C:\Users\mymik\Desktop\kursC#\michal_mendelak_cpc2020-2\Laboratorium1\zadanie domowe\MichalMendelakZad1\bin\Debug\villageBuilder.exe.config
+C:\Users\mymik\Desktop\kursC#\michal_mendelak_cpc2020-2\Laboratorium1\zadanie domowe\MichalMendelakZad1\bin\Debug\villageBuilder.exe
+C:\Users\mymik\Desktop\kursC#\michal_mendelak_cpc2020-2\Laboratorium1\zadanie domowe\MichalMendelakZad1\bin\Debug\villageBuilder.pdb
+C:\Users\mymik\Desktop\kursC#\michal_mendelak_cpc2020-2\Laboratorium1\zadanie domowe\MichalMendelakZad1\obj\Debug\villageBuilder.Properties.Resources.resources
+C:\Users\mymik\Desktop\kursC#\michal_mendelak_cpc2020-2\Laboratorium1\zadanie domowe\MichalMendelakZad1\obj\Debug\villageBuilder.exe
+C:\Users\mymik\Desktop\kursC#\michal_mendelak_cpc2020-2\Laboratorium1\zadanie domowe\MichalMendelakZad1\obj\Debug\villageBuilder.pdb
